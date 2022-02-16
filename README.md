@@ -8,7 +8,7 @@ That is a program for laboratory in UCU. The main task is to learn how to work w
 
 <img width="1070" alt="Screenshot 2022-02-16 at 19 43 35" src="https://user-images.githubusercontent.com/54081501/154324370-d5afaa89-3c84-45ac-81e4-281d5d951a09.png">
 
-You have few possible ways to start the program. You can use uploaded data for tests. That is .json files, which are result of Twitter API. The second is to get .json files with your keys from Twitter API. You have to type them into file hidden.py, and after that everything should work.
+You have few possible ways to start the program. You can use uploaded DATA for tests. That is .json files, which are result of Twitter API. The second is to get .json files with your keys from Twitter API. You have to type them into file hidden.py, and after that everything should work.
 
 <img width="754" alt="Screenshot 2022-02-16 at 19 44 03" src="https://user-images.githubusercontent.com/54081501/154324414-fc5186d6-7012-477f-8392-d1e263612467.png">
 
