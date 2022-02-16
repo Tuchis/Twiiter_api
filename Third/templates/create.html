@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1 align="center">{% block title %} Find Locations of friend's users {% endblock %}</h1>
+    <form method="post" align="center">
+        <label for="title">Username</label>
+        <br>
+        <br>
+        <input type="text" name="title"
+               placeholder="@nickname"
+               cols = "17"
+               value="{{ request.form['title'] }}"></input>
+        <br>
+        <br>
+        <br>
+
+        <label for="content">Count of friends, that is going to be proceeded</label>
+        <br>
+        <br>
+        <textarea name="content"
+                  placeholder="Number of friends"
+                  rows="1"
+                  cols="17"
+                  >{{ request.form['content'] }}</textarea>
+        <br>
+        <br>
+        <button type="submit">Search</button>
+    </form>
+{% endblock %}
