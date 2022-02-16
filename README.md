@@ -40,3 +40,5 @@ The program is hosted at the following link, and if it is on, you should enjoy i
 *The example of generated friends of THE ROCK*
 
 If you want to launch at your PC, you have to start it using and Flask and you have to type keys for Twitter API into file hidden.py, and after that everything should work. 
+
+The template of html sites were taken here: https://www.digitalocean.com/community/tutorials/how-to-use-web-forms-in-a-flask-application
