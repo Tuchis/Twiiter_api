@@ -29,7 +29,7 @@ That is a program for laboratory in UCU. The main task is to host the site that 
 
 The programs gets the username of Twitter user and amount of his friends, that are going to be proceeded. Then, with use of Twitter API, it gets the .json file about user's friends. This data is used to show the locations of friedns at the map. This is done with folium and geopy.
 
-<img width="580" alt="Screenshot 2022-02-16 at 19 42 05" src="https://user-images.githubusercontent.com/54081501/154324148-b529fbd9-e91c-45c3-b49f-5ae23f6f4a4d.png">
+<img width="770" alt="Screenshot 2022-02-18 at 16 49 33" src="https://user-images.githubusercontent.com/54081501/154705383-f77e29a5-081f-4a47-aa21-70e76ec27e36.png">
 
 The program is hosted at the following link, and if it is on, you should enjoy it. ***But Twitter API has limited requests, that's why you shouldn't use it too often, unless you want to wait ~ 15 minutes for new requests ))***
 
