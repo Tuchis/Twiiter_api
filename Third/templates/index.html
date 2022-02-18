@@ -21,7 +21,8 @@
       value="{{ request.form['title'] }}"/>
       <input type="text" name="content" placeholder="Count of friends"
       value="{{ request.form['content'] }}"/>
-      <button type="submit">Search</button>
+        <button type="submit" class="button" onclick="this.classList.toggle('button--loading')"><span class="button__text">Search</span></button>
+</button>
     </form>
   </div>
 </div>
